@@ -8,54 +8,26 @@ var monoSpace = '```'
 exports.rulesBot = () =>{
 return`*──「 RULES-BOT 」──*
 
-1. Dilarang spam bot✉️. 
-Sanksi: *BLOCK*
-
-2. Dilarang Call bot📞.
-Sanksi: *BLOCK*
-
-3. Jangan Mengina bot📣.
-Sanksi: *PERMANENT BLOCK*
-
-Mohon Di pahami atas Peraturan penggunaan bot WhatsApp.`
+1. Jangan spam bot✉️. 
+2. Jangan Call bot 📞.
+3. Jangan di-report cok pls.
+`
 }
 
 exports.donasiBot = (cekName,ucapanWaktu) =>{
 return`──「 *MENU DONATE* 」──
 
-Hi *${cekName}* ${ucapanWaktu} 👋🏻
+Hai *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Ovo*
-Number: 085806240904
+*TIDAK MENERIMA DONASI YA GES*
 
-*Payment Dana*
-Number: 085806240904
-
-*Payment Gopay*
-Number: ----
-
-Satu sedekah yang tulus sama dengan seribu langkah menuju surga.
-صدقة واحدة مخلصة تساوي ألف خطوة إلى الجنة.
-
-${monoSpace} berapapun donasi dari kalian itu sangat berarti bagi kami ^_^${monoSpace}
-──「 *THX FOR YOU* 」──`
+──「 _THX FOR YOU_ 」──`
 }
 
 exports.infoOwner = () =>{
 return`──「 *DATA PROFIL OWNER* 」──
 
- ⬣ *Nama :* Rama 
- ⬣ *Umur :* Privv
- ⬣ *Hoby. :* Turu/Game
- ⬣ *Asal   :* Jatim - Lamongan
- ⬣ *Status:* Creator
- ⬣ *Zodiak:* Gk tau
-
-                  「 *SOSIAL MEDIA*」
- ⬣ *Whatsapp:* 085791220179
- ⬣ *Youtube:* Ramaa Gnnz
- ⬣ *Github:* ---
- ⬣ *Tiktok:* ---
- ⬣ *Instagram:* ---
+ ⬣ *Nama :* Amstronaut 
+ ⬣ *Umur :* 6969
  `
 }
